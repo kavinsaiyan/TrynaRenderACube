@@ -1,0 +1,2 @@
+# TrynaRenderACube
+Monogame test project
